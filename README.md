@@ -5,9 +5,7 @@ Be sure to check out our Wiki for help. As development progresses we will be upd
 [Artis Turba Wiki](https://github.com/ArtisTurba/Central/wiki)
 
 
-The next planned release 1.2 is expected on 30 April 2018
-
-Release 1.2 will include wallet functionality for the additional Cryptocurrencies; BCH, LTC, DASH, XRP, XMR*, EOS, OMG, TRON
+The next planned release 1.2 is expected on 30 April 2018, and will include wallet functionality for the additional Cryptocurrencies; BCH, LTC, DASH, XRP, XMR*, EOS, OMG, TRON
 
 *XMR due to technical issues this Cryptocurrency may only be rolled out during a later release
 
