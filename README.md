@@ -1,6 +1,6 @@
 # Welcome to Artis Turba's official Github repository 
 
-Be sure to check out our Wiki for help. As development progresses we will be updating this repository so be sure to check in from time to time for more info during new releases.
+As development progresses we will be updating this repository so be sure to check in from time to time for more info during new releases.
 
 [Artis Turba Exchange API's](https://www.artisturba.com/api)
 
